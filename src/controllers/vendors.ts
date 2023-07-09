@@ -68,3 +68,47 @@ export const getOneVendor = async (
 		return next(new AppError(`Service Unavailable ${err.message}`, 503));
 	}
 };
+
+export const getAllVendors = async (
+	req: Request,
+	res: Response,
+	next: NextFunction
+) => {
+	try {
+		const allVendors = await Vendors.find();
+		if (!allVendors) {
+			return next(new AppError('all vendors not found', 404));
+		}
+		return res.status(202).json({
+			success: true,
+			message: 'All vendors has been retrieved',
+			data: allVendors,
+		});
+	} catch (err: any) {
+		console.error(err);
+		return next(new AppError(`Service Unavailable ${err.message}`, 503));
+	}
+};
+
+export const destroyVendor = async (
+	req: Request,
+	res: Response,
+	next: NextFunction
+) => {
+	const { id } = req.params;
+
+	try {
+		const removeVendor = await Vendors.findOneAndDelete({ _id: id });
+		if (!removeVendor) {
+			return next(new AppError('Vendor not found', 404));
+		}
+		return res.status(200).json({
+			success: true,
+			message: `vendor with this id ${id} has been deleted`,
+			data: removeVendor,
+		});
+	} catch (err: any) {
+		console.error(err);
+		return next(new AppError(`Service Unavailable ${err.message}`, 503));
+	}
+};
