@@ -72,7 +72,7 @@ export const totalUnitPost = async (
 	}
 };
 
-export const updateDuty = async (
+export const updatetotal = async (
 	req: Request,
 	res: Response,
 	next: NextFunction
