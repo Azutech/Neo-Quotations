@@ -58,4 +58,4 @@ const dutiesSchema = new Schema({
 	},
 });
 
-export const DutiesQuotation = model('CIF', dutiesSchema);
+export const DutiesQuotation = model('DutiesQuotation', dutiesSchema);

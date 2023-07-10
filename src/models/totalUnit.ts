@@ -1,7 +1,7 @@
 import { Schema, Types, model } from 'mongoose';
 import { Vendors } from './vendors';
 
-const dutiesSchema = new Schema({
+const totalSchema = new Schema({
 	vendors: {
 		type: Schema.Types.ObjectId,
 		required: false,
@@ -46,4 +46,4 @@ const dutiesSchema = new Schema({
 	},
 });
 
-export const TotalQuotation = model('CIF', dutiesSchema);
+export const TotalQuotation = model('TotalQuotation', totalSchema);

@@ -58,4 +58,4 @@ const cifSchema = new Schema({
 	},
 });
 
-export const CIFQuotation = model('CIF', cifSchema);
+export const CIFQuotation = model('CIFQuotation', cifSchema);
