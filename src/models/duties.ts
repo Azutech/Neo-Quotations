@@ -1,5 +1,6 @@
 import { Schema, Types, model } from 'mongoose';
 import { Vendors } from './vendors';
+import { totalDutySchema } from './schema/total.duty';
 
 const dutiesSchema = new Schema({
 	vendors: {
@@ -33,15 +34,15 @@ const dutiesSchema = new Schema({
 		required: [true, 'dutyHSCode of vendor needed'],
 	},
 	dutyRate: {
-		type: String,
+		type: Number,
 		required: [true, 'dutyRate of vendor needed'],
 	},
 	totalDuty: {
-		type: String,
+		type: [totalDutySchema],
 		required: [true, 'totalDuty of vendor needed'],
 	},
 	localClearing: {
-		type: String,
+		type: Number,
 		required: [true, 'localClearing of vendor needed'],
 	},
 	markingUp: {
@@ -49,10 +50,10 @@ const dutiesSchema = new Schema({
 		required: [true, 'markingUp of vendor needed'],
 	},
 	statLift: {
-		type: String,
+		type: Number,
 		required: [true, 'statLift of vendor needed'],
 	},
-	totalLift: {
+	total: {
 		type: String,
 		required: [true, 'totalLift of vendor needed'],
 	},

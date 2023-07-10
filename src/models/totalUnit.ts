@@ -29,19 +29,19 @@ const totalSchema = new Schema({
 		required: [true, 'Weight of vendor needed'],
 	},
 	WTH: {
-		type: String,
+		type: Number,
 		required: [true, 'WTH of vendor needed'],
 	},
 	costOfCapital: {
-		type: String,
+		type: Number,
 		required: [true, 'costOfCapital of vendor needed'],
 	},
 	statLift: {
-		type: String,
+		type: Number,
 		required: [true, 'statLift of vendor needed'],
 	},
 	totalLift: {
-		type: String,
+		type: Number,
 		required: [true, 'totalLift of vendor needed'],
 	},
 });

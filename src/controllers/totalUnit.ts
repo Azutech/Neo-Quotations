@@ -15,7 +15,7 @@ export const totalUnitPost = async (
 		quantity,
 		weight,
 		costOfCapital,
-        WTH,
+		WTH,
 		statLift,
 		totalLift,
 	} = req.body;
@@ -44,13 +44,14 @@ export const totalUnitPost = async (
 		}
 
 		const newQuotation = await TotalQuotation.create({
+			vendors: getThisVendor._id,
 			productName,
 			partNumber,
 			textDescription,
 			quantity,
 			weight,
 			costOfCapital,
-            WTH,
+			WTH,
 			statLift,
 			totalLift,
 		});
@@ -79,14 +80,14 @@ export const updatetotal = async (
 ) => {
 	const {
 		productName,
-			partNumber,
-			textDescription,
-			quantity,
-			weight,
-			costOfCapital,
-            WTH,
-			statLift,
-			totalLift,
+		partNumber,
+		textDescription,
+		quantity,
+		weight,
+		costOfCapital,
+		WTH,
+		statLift,
+		totalLift,
 	} = req.body;
 
 	const { vendorId, quoteId } = req.params;
@@ -94,7 +95,7 @@ export const updatetotal = async (
 	try {
 		if (
 			!(
-                productName ||
+				productName ||
                 partNumber ||
                 textDescription ||
                 quantity ||

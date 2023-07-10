@@ -12,11 +12,9 @@ export const CIFpost = async (
 		productName,
 		partNumber,
 		textDescription,
-		freightUnitPriceCIF,
 		freightUnitPrice,
 		quantity,
 		weight,
-		freightPortion,
 		priceUSD,
 		freightPercentage,
 		statLift,
@@ -31,11 +29,9 @@ export const CIFpost = async (
 				productName ||
                 partNumber ||
                 textDescription ||
-                freightUnitPriceCIF ||
                 freightUnitPrice ||
                 quantity ||
                 weight ||
-                freightPortion ||
                 priceUSD ||
                 freightPercentage ||
                 statLift ||
@@ -44,20 +40,44 @@ export const CIFpost = async (
 		) {
 			return next(new AppError('Input Parameter', 404));
 		}
+
+		const existingPartNumber = await CIFQuotation.findOne({
+			partNumber: partNumber,
+		});
+
+		if (existingPartNumber) {
+			return next(new AppError('partnumber does already exist', 409));
+		}
+
 		const getThisVendor = await Vendors.findOne({ _id: vendorId });
 		if (!getThisVendor) {
 			return next(new AppError('vendor not found', 404));
 		}
 
+		const existingVendor = await CIFQuotation.findOne({productName});
+
+		console.log(existingVendor);
+
+		if (!existingVendor) {
+			return next(new AppError('Quotation does already exist', 409));
+		}
+		const newfreightPortion =
+            (existingVendor.priceUSD !== undefined
+            	? existingVendor.priceUSD
+            	: 0) *
+            (existingVendor.freightPercentage !== undefined
+            	? existingVendor.freightPercentage
+            	: 0);
+
 		const newCIF = await CIFQuotation.create({
+			vendors: getThisVendor._id,
 			productName,
 			partNumber,
 			textDescription,
-			freightUnitPriceCIF,
 			freightUnitPrice,
 			quantity,
 			weight,
-			freightPortion,
+			freightPortion: newfreightPortion,
 			priceUSD,
 			freightPercentage,
 			statLift,
@@ -90,11 +110,9 @@ export const updateCIF = async (
 		productName,
 		partNumber,
 		textDescription,
-		freightUnitPriceCIF,
 		freightUnitPrice,
 		quantity,
 		weight,
-		freightPortion,
 		priceUSD,
 		freightPercentage,
 		statLift,
@@ -109,11 +127,9 @@ export const updateCIF = async (
 				productName ||
                 partNumber ||
                 textDescription ||
-                freightUnitPriceCIF ||
                 freightUnitPrice ||
                 quantity ||
                 weight ||
-                freightPortion ||
                 priceUSD ||
                 freightPercentage ||
                 statLift ||
@@ -123,11 +139,10 @@ export const updateCIF = async (
 			return next(new AppError('Input Parameter', 404));
 		}
 
-		const getThisVendor = await Vendors.findOne({ vendorId });
+		const getThisVendor = await Vendors.findOne({ _id: vendorId });
 		if (!getThisVendor) {
 			return next(new AppError('vendor not found', 404));
 		}
-
 		const getThisQuotation = await CIFQuotation.findOne({ _id: quoteId });
 		if (!getThisQuotation) {
 			return next(new AppError('Quotation not found', 404));
@@ -148,3 +163,26 @@ export const updateCIF = async (
 		return next(new AppError(`Service Error ${err.message}`, 503));
 	}
 };
+
+
+export const getCIFQuotation = async (
+	req: Request,
+	res: Response,
+	next: NextFunction
+) => {
+	try {
+		const allCIFQuotation= await CIFQuotation.find();
+		if (!allCIFQuotation) {
+			return next(new AppError('all qoutations not found', 404));
+		}
+		return res.status(202).json({
+			success: true,
+			message: 'All qoutations has been retrieved',
+			data: allCIFQuotation,
+		});
+	} catch (err: any) {
+		console.error(err);
+		return next(new AppError(`Service Unavailable ${err.message}`, 503));
+	}
+};
+

@@ -16,7 +16,6 @@ export const dutyPost = async (
 		dutyRate,
 		quantity,
 		weight,
-		totalDuty,
 		localClearing,
 		markingUp,
 		statLift,
@@ -35,7 +34,6 @@ export const dutyPost = async (
                 dutyRate ||
                 quantity ||
                 weight ||
-                totalDuty ||
                 localClearing ||
                 markingUp ||
                 statLift ||
@@ -49,7 +47,15 @@ export const dutyPost = async (
 			return next(new AppError('vendor not found', 404));
 		}
 
+		const getThisQuotation = await DutiesQuotation.findOne({
+			_id: partNumber,
+		});
+		if (!getThisQuotation) {
+			return next(new AppError('vendor not found', 404));
+		}
+
 		const newQuotation = await DutiesQuotation.create({
+			vendors: getThisVendor._id,
 			productName,
 			partNumber,
 			textDescription,
@@ -57,7 +63,6 @@ export const dutyPost = async (
 			dutyRate,
 			quantity,
 			weight,
-			totalDuty,
 			localClearing,
 			markingUp,
 			statLift,
@@ -80,7 +85,6 @@ export const dutyPost = async (
 		return next(new AppError(`Service Error ${err.message}`, 503));
 	}
 };
-
 
 export const updateDuty = async (
 	req: Request,
@@ -107,7 +111,7 @@ export const updateDuty = async (
 	try {
 		if (
 			!(
-                productName ||
+				productName ||
                 partNumber ||
                 textDescription ||
                 dutyHSCode ||

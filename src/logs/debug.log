@@ -42,3 +42,394 @@
 2023-07-10T10:46:13.176Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
 2023-07-10T10:46:21.314Z [boom] info: Express is listening at http://localhost:3000
 2023-07-10T10:46:21.322Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T11:10:44.124Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T11:10:44.134Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T11:13:34.248Z [boom] info: BOOM 🔥🔥
+2023-07-10T11:52:05.933Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T11:52:05.952Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T11:52:08.790Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T11:52:08.801Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T11:53:11.669Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T11:53:11.681Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T12:01:11.457Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T12:01:11.466Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T12:01:22.239Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T12:01:22.247Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T12:01:32.493Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T12:01:32.502Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T12:01:43.924Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T12:01:43.933Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T12:05:49.140Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T12:05:49.148Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T12:14:54.382Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T12:14:54.408Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T12:16:46.084Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T12:16:46.092Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:28:56.320Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:28:56.336Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:41:06.379Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:41:06.391Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:48:59.167Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:48:59.175Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:49:00.955Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:49:00.964Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:49:03.984Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:49:03.992Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:49:42.696Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:49:42.705Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:49:50.488Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:49:50.497Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:49:52.432Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:49:52.440Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:49:53.955Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:49:53.963Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:50:00.635Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:50:00.643Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:50:04.428Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:50:04.436Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:50:05.940Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:50:05.948Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:50:28.526Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:50:28.535Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:50:52.889Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:50:52.897Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:50:56.671Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:50:56.679Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:51:06.359Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:51:06.368Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:51:10.058Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:51:10.066Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:51:12.387Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:51:12.395Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:51:39.410Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:51:39.419Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T14:51:42.296Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T14:51:42.304Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:06:29.476Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:06:29.488Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:06:40.462Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:06:40.471Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:06:52.331Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:06:52.339Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:06:56.313Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:06:56.321Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:06:59.985Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:06:59.993Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:07:03.025Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:07:03.033Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:10:20.328Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:10:20.336Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:12:20.468Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:12:20.476Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:19:45.390Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:19:45.400Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:19:56.633Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:19:56.643Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:02.570Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:02.578Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:04.328Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:04.336Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:06.067Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:06.075Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:08.921Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:08.930Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:10.672Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:10.680Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:47.816Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:47.825Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:50.055Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:50.063Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:52.065Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:52.073Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:54.730Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:54.739Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:56.602Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:56.610Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:20:58.787Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:20:58.796Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:21:05.508Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:21:05.516Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:21:07.246Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:21:07.258Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:21:29.129Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:21:29.137Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:21:34.278Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:21:34.289Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:21:55.237Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:21:55.262Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:22:06.483Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:22:06.498Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:22:44.546Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:22:44.554Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:22:58.083Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:22:58.091Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:23:26.815Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:23:26.823Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:24:13.506Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:24:13.516Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:24:55.675Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:24:55.684Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:25:41.380Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:25:41.389Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:26:01.696Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:26:01.706Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:26:40.093Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:26:40.102Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:27:05.062Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:27:05.074Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:31:20.400Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:31:20.409Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:31:25.435Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:31:25.444Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:31:31.923Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:31:31.931Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:31:33.323Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:31:33.333Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:32:52.026Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:32:52.035Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:33:05.471Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:33:05.480Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:33:13.460Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:33:13.468Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:33:17.202Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:33:17.210Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:33:26.530Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:33:26.539Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:33:31.011Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:33:31.018Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:33:33.845Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:33:33.852Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:37:05.931Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:37:05.940Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:37:23.475Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:37:23.484Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:37:46.933Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:37:46.945Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:38:28.427Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:38:28.437Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:38:35.596Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:38:35.604Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:43:59.102Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:43:59.111Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:44:49.167Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:44:49.176Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:48:39.936Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:48:39.945Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:48:45.694Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:48:45.703Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:48:50.583Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:48:50.591Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:49:02.202Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:49:02.211Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:50:03.037Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:50:03.045Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:50:20.656Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:50:20.674Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:50:33.804Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:50:33.814Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:55:04.983Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:55:04.992Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:55:32.936Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:55:32.945Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:55:41.121Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:55:41.130Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:55:49.567Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:55:49.575Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:55:58.484Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:55:58.493Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:57:04.037Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:57:04.046Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:58:07.606Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:58:07.615Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:58:17.304Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:58:17.311Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:58:27.067Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:58:27.074Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:58:34.644Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:58:34.651Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T15:59:43.152Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T15:59:43.161Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:03:44.864Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:03:44.889Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:05:47.768Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:05:47.779Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:07:07.501Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:07:07.509Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:07:45.951Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:07:45.961Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:07:53.888Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:07:53.897Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:10:09.733Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:10:09.743Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:10:16.185Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:10:16.193Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:10:20.838Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:10:20.846Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:18:21.756Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:18:21.766Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:19:24.201Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:19:24.209Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:19:39.771Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:19:39.783Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:19:41.747Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:19:41.757Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:21:22.654Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:21:22.663Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:21:31.089Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:21:31.097Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:22:10.571Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:22:10.580Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:22:13.354Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:22:13.362Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:22:14.903Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:22:14.913Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:22:16.451Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:22:16.461Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:22:21.575Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:22:21.584Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:22:38.709Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:22:38.716Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:25:29.208Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:25:29.216Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:25:31.972Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:25:31.983Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:25:35.490Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:25:35.498Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:26:22.512Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:26:22.524Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:29:08.183Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:29:08.192Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:33:50.631Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:33:50.640Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:33:56.818Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:33:56.826Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:37:24.024Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:37:24.034Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:37:30.522Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:37:30.531Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:37:32.796Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:37:32.808Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:37:34.994Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:37:35.003Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:41:07.656Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:41:07.666Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:41:09.077Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:41:09.086Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:44:06.718Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:44:06.728Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:44:09.648Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:44:09.658Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:44:12.886Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:44:12.897Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:44:19.585Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:44:19.595Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:44:27.765Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:44:27.774Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:44:57.802Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:44:57.811Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:46:05.426Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:46:05.435Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:46:07.454Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:46:07.463Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:46:16.653Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:46:16.662Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:46:18.830Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:46:18.839Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:46:35.620Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:46:35.629Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:46:39.175Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:46:39.183Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:46:41.033Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:46:41.042Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T16:46:44.234Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T16:46:44.243Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:02:22.466Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:02:22.479Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:02:42.571Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:02:42.580Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:02:47.398Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:02:47.407Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:03:04.516Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:03:04.526Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:03:26.254Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:03:26.263Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:03:30.732Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:03:30.742Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:03:36.769Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:03:36.779Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:03:51.284Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:03:51.293Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:04:06.254Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:04:06.262Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:11:10.536Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:11:10.544Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:11:22.620Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:11:22.628Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:11:25.194Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:11:25.203Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:11:31.948Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:11:31.956Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:11:34.630Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:11:34.639Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:11:39.266Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:11:39.275Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:12:10.582Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:12:10.590Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:12:18.128Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:12:18.138Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:12:21.674Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:12:21.682Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:12:27.291Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:12:27.300Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:12:43.348Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:12:43.357Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:13:16.295Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:13:16.304Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:13:30.496Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:13:30.506Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:13:35.873Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:13:35.881Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:13:49.708Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:13:49.717Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:13:51.276Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:13:51.285Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:13:56.832Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:13:56.841Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:13:58.873Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:13:58.882Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:14:05.769Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:14:05.778Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:14:10.320Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:14:10.328Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:15:10.259Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:15:10.268Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:15:14.149Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:15:14.157Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:16:47.079Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:16:47.087Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:17:26.735Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:17:26.745Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:17:31.633Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:17:31.641Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:17:42.537Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:17:42.546Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:18:04.153Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:18:04.163Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:18:11.184Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:18:11.196Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:18:13.456Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:18:13.465Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:18:20.042Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:18:20.051Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:18:54.218Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:18:54.227Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:19:03.902Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:19:03.911Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:19:31.588Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:19:31.597Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:20:00.415Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:20:00.423Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:20:04.293Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:20:04.302Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server
+2023-07-10T17:20:05.813Z [boom] info: Express is listening at http://localhost:3000
+2023-07-10T17:20:05.821Z [boom] info: Connected to Neo-Quotation DB on MongoDB local server

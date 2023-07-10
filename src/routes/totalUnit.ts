@@ -1,8 +1,7 @@
-import {Router} from 'express'
-import {totalUnitPost, updatetotal} from '../controllers/totalUnit'
+import { Router } from 'express';
+import { totalUnitPost, updatetotal } from '../controllers/totalUnit';
 
+export const total = Router();
 
-export const total = Router()
-
-total.post('/totalUnit', totalUnitPost)
-total.put('/totalUnit', updatetotal)
+total.post('/totalUnit/:vendorId', totalUnitPost);
+total.put('/upDatetotalUnit/:vendorId/ext/:quoteId', updatetotal);
