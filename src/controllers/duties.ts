@@ -48,10 +48,10 @@ export const dutyPost = async (
 		}
 
 		const getThisQuotation = await DutiesQuotation.findOne({
-			_id: partNumber,
+			dutyHSCode,
 		});
-		if (!getThisQuotation) {
-			return next(new AppError('vendor not found', 404));
+		if (getThisQuotation) {
+			return next(new AppError('HSCode already exists', 409));
 		}
 
 		const newQuotation = await DutiesQuotation.create({
@@ -128,7 +128,7 @@ export const updateDuty = async (
 			return next(new AppError('Input Parameter', 404));
 		}
 
-		const getThisVendor = await Vendors.findOne({ vendorId });
+		const getThisVendor = await Vendors.findOne({ _id: vendorId });
 		if (!getThisVendor) {
 			return next(new AppError('vendor not found', 404));
 		}
@@ -151,5 +151,26 @@ export const updateDuty = async (
 	} catch (err: any) {
 		console.error(err);
 		return next(new AppError(`Service Error ${err.message}`, 503));
+	}
+};
+
+export const getallDutiesQuotation = async (
+	req: Request,
+	res: Response,
+	next: NextFunction
+) => {
+	try {
+		const allDutiesQuotation = await DutiesQuotation.find();
+		if (!allDutiesQuotation) {
+			return next(new AppError('all qoutations not found', 404));
+		}
+		return res.status(202).json({
+			success: true,
+			message: 'All qoutations has been retrieved',
+			data: allDutiesQuotation,
+		});
+	} catch (err: any) {
+		console.error(err);
+		return next(new AppError(`Service Unavailable ${err.message}`, 503));
 	}
 };

@@ -53,7 +53,7 @@ const dutiesSchema = new Schema({
 		type: Number,
 		required: [true, 'statLift of vendor needed'],
 	},
-	total: {
+	totalLift: {
 		type: String,
 		required: [true, 'totalLift of vendor needed'],
 	},

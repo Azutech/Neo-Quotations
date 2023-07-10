@@ -1,6 +1,21 @@
 import { Schema, Types, model } from 'mongoose';
 import { Vendors } from './vendors';
 
+// interface CIFQuotation {
+// 	vendors: Types.ObjectId;
+// 	productName: string;
+// 	partNumber: string;
+// 	textDescription: string;
+// 	freightUnitPrice: number;
+// 	quantity: number;
+// 	weight: number;
+// 	freightPortion: number;
+// 	priceUSD: number;
+// 	freightPercentage: number;
+// 	statLift: number;
+// 	totalLift: number;
+//   }
+
 const cifSchema = new Schema({
 	vendors: {
 		type: Schema.Types.ObjectId,
@@ -45,11 +60,11 @@ const cifSchema = new Schema({
 		required: [true, 'freightUnitPrice of vendor needed'],
 	},
 	statLift: {
-		type: String,
+		type: Number,
 		required: [true, 'statLift of vendor needed'],
 	},
 	totalLift: {
-		type: String,
+		type: Number,
 		required: [true, 'totalLift of vendor needed'],
 	},
 });

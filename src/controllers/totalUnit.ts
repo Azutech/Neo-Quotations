@@ -109,7 +109,7 @@ export const updatetotal = async (
 			return next(new AppError('Input Parameter', 404));
 		}
 
-		const getThisVendor = await Vendors.findOne({ vendorId });
+		const getThisVendor = await Vendors.findOne({ _id: vendorId });
 		if (!getThisVendor) {
 			return next(new AppError('vendor not found', 404));
 		}

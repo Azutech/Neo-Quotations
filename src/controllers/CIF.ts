@@ -53,14 +53,14 @@ export const CIFpost = async (
 		if (!getThisVendor) {
 			return next(new AppError('vendor not found', 404));
 		}
+		console.log(3);
 
-		const existingVendor = await CIFQuotation.findOne({productName});
-
-		console.log(existingVendor);
+		const existingVendor = await CIFQuotation.findOne({});
 
 		if (!existingVendor) {
 			return next(new AppError('Quotation does already exist', 409));
 		}
+
 		const newfreightPortion =
             (existingVendor.priceUSD !== undefined
             	? existingVendor.priceUSD
@@ -164,14 +164,13 @@ export const updateCIF = async (
 	}
 };
 
-
 export const getCIFQuotation = async (
 	req: Request,
 	res: Response,
 	next: NextFunction
 ) => {
 	try {
-		const allCIFQuotation= await CIFQuotation.find();
+		const allCIFQuotation = await CIFQuotation.find();
 		if (!allCIFQuotation) {
 			return next(new AppError('all qoutations not found', 404));
 		}
@@ -185,4 +184,3 @@ export const getCIFQuotation = async (
 		return next(new AppError(`Service Unavailable ${err.message}`, 503));
 	}
 };
-
